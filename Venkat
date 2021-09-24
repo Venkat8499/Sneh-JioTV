@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, SONIC TELUGU
+http://103.217.221.64/snehtv/snehjio/snehji0.php?c=Sonic_Telugu&q=250&e=.m3u8
+#EXTINF:-1,NICK TELUGU
+http://103.217.221.64/snehtv/snehjio/snehji0.php?c=Nick_Telugu&q=250&e=.m3u8
+#EXTINF:-1,CN TELUGU
+http://103.217.221.64/snehtv/snehjio/snehji0.php?c=Cartoon_Network_Telugu&q=250&e=.m3u8
+#EXTINF:-1,CN HD+ TELUGU
+http://103.217.221.64/snehtv/snehjio/snehji0.php?c=CN_HD_Telugu&q=250&e=.m3u8
+#EXTINF:-1,SONY YAY TELUGU
+http://103.217.221.64/snehtv/snehjio/snehji0.php?c=Sony_Yay_Telugu&q=250&e=.m3u8
+#EXTINF:-1,KUSHI TV
+http://85.203.33.91:80/307210100102/307210100102/83971
+#EXTINF:-1,KUSHI TV 2
+http://45.87.29.92:25461/307210100102/307210100102/83971?token=VGhoSWtZOG5YOWI2alVC
